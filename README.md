@@ -19,13 +19,13 @@ Or install it yourself as:
 
 ## Usage
 
-server_config = {
-	"host" => "127.0.0.1",
-	"auth" => {
-		"username" => "admin",
-		"password" => "12345"
+	server_config = {
+		"host" => "127.0.0.1",
+		"auth" => {
+			"username" => "admin",
+			"password" => "12345"
+		}
 	}
-}
 
 username = server_config.auth.username
 
