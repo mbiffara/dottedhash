@@ -27,7 +27,7 @@ server_config = {
 	}
 }
 
-username = server.auth.username
+username = server_config.auth.username
 
 ## Contributing
 
