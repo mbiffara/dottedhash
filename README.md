@@ -27,7 +27,7 @@ Or install it yourself as:
 		}
 	}
 
-username = server_config.auth.username
+	username = server_config.auth.username
 
 ## Contributing
 
