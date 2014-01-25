@@ -3,6 +3,8 @@
 DottedHash is an utility gem that ads plain ruby object like navigation to simple ruby hashes
 This is great for consuming JSON API's
 
+[![Gem Version](https://badge.fury.io/rb/dottedhash.png)](http://badge.fury.io/rb/dottedhash)
+
 ## Installation
 
 Add this line to your application's Gemfile:
